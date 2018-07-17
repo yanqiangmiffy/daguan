@@ -6,3 +6,4 @@
 - [text_classification_AI100](https://github.com/lc222/text_classification_AI100)
 - [text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)
 - [Text-Classification-Benchmark](https://github.com/FelixHo/Text-Classification-Benchmark)
+- [20newsgroups-text-classification](https://github.com/yanqiangmiffy/20newsgroups-text-classification)
